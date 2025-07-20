@@ -1,0 +1,5 @@
+
+Jul/20/2025	10:43:27	Corolla	Orange	1665000
+Jul/20/2025	10:45:47	Hilux	Azure	1919000
+Jul/20/2025	10:46:27	Corolla	Brown	1665000
+Jul/20/2025	10:52:09	Hiace	Purple	1166000
